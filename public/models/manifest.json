@@ -1,0 +1,23 @@
+{
+  "version": "BirdNET+ V3.0 Preview 3.1",
+  "bytes": 71528628,
+  "sha256": "69cfc8db3ebec163feb6329e546eb56e1aadac2a309f1ee99aecfabd1aa9bd24",
+  "parts": [
+    {
+      "name": "model-0.bin",
+      "bytes": 20971520
+    },
+    {
+      "name": "model-1.bin",
+      "bytes": 20971520
+    },
+    {
+      "name": "model-2.bin",
+      "bytes": 20971520
+    },
+    {
+      "name": "model-3.bin",
+      "bytes": 8614068
+    }
+  ]
+}
